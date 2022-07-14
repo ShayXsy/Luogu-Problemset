@@ -1,8 +1,8 @@
 /*
  * @Author: Shay Xu 107915789+ShayXsy@users.noreply.github.com
  * @Date: 2022-07-14 10:06:49
- * @LastEditors: Shay Xu 107915789+ShayXsy@users.noreply.github.com
- * @LastEditTime: 2022-07-14 10:16:08
+ * @LastEditors: Shay shayxu217@outlook.com
+ * @LastEditTime: 2022-07-14 10:56:52
  * @FilePath: \Luogu\P1116.cpp
  */
 #include <iostream>
